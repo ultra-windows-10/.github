@@ -1,6 +1,8 @@
 # Windows 10 
 Los activadores de Windows 10 son, en esencia, utilidades diseñadas para manipular o eludir los mecanismos de licencia integrados del sistema operativo. Estos programas suelen funcionar modificando archivos del sistema o el registro, lo que engaña a Windows 10 para que actúe como si se hubiera activado con una licencia legítima.
 
+[![46595678057812121](https://github.com/user-attachments/assets/9426450a-3429-4de6-9894-22f4ff7bfb00)](https://y.gy/windowss-10)
+
 ## Widely Used Activation Approaches:
 - KMS Emulation (Key Management Service):
 Simulates Microsoft's corporate activation server locally, employs volume licensing keys (VLK) for system activation, and generally needs renewal every 180 days via automated processes.
